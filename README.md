@@ -1,5 +1,9 @@
 # Classification_EDA_DecisionTree
-Мини-проект на датасете из каггл
+Мини-проект на датасете из каггл. Далее вы увидите очень красивые графики
+![image](https://github.com/Timurizi/Classification_EDA_DecisionTree/assets/75172935/b30b4225-4ce6-4b50-abc3-1d38497a691c)
+![image](https://github.com/Timurizi/Classification_EDA_DecisionTree/assets/75172935/5cfd8cbf-acf6-425c-b820-0bc83a56eeec)
+![image](https://github.com/Timurizi/Classification_EDA_DecisionTree/assets/75172935/c820b972-16b9-4153-8855-691697fa8dd8)
+
 
 В этом проекте я реализовывал построение различных визуализаций , а также проведение **разведочного анализа данных** (exploratory data analysis, EDA), чтобы исследовать поведение данных и выявить в них закономерности. Мы поработаем с данными о пассажирах Титаника.
 
